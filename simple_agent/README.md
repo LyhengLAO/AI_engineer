@@ -7,13 +7,6 @@ Ce dépôt (ou ces deux dépôts) contient **le même agent IA**, implémenté d
 
 Les deux font exactement la même chose : un agent qui reçoit une question, décide d'utiliser ou non des outils (calculatrice, recherche web, etc.), et répond — le tout en local et gratuit avec [Ollama](https://ollama.com).
 
-## Pourquoi deux versions ?
-
-- La version **from scratch** montre que tu comprends le fonctionnement interne d'un agent (boucle de raisonnement, parsing des décisions du modèle, prompt engineering).
-- La version **LangChain** montre que tu sais utiliser les outils standards du marché — LangChain/LangGraph est un mot-clé qui revient très souvent dans les offres GenAI/ML Engineer en France.
-
-Avoir les deux dans un portfolio est un signal fort : compréhension des fondamentaux **et** maîtrise de l'écosystème professionnel.
-
 ## Ce qui est différent
 
 | Aspect | `ollama-agent` (from scratch) | `langchain-ollama-agent` |
